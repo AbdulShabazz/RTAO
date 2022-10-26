@@ -1,6 +1,6 @@
 # RTAO
 
-This is an implementation of Ray Traced Ambient Occlusion (RTAO) using DXR. Code is based on a [IntroToDXR Project](https://github.com/acmarrs/IntroToDXR) by Adam Marrs - you should check it out for build instructions and code description.
+This is an implementation of Ray Traced Ambient Occlusion (RTAO) using DXR. Code is based on a **IntroToDXR Project** ( github.com/acmarrs/IntroToDXR ) by Adam Marrs - you should check it out for build instructions and code description.
 
 ![Release Mode](rtao.png "Release Mode Output")
 
@@ -25,14 +25,10 @@ This is a basic implementation that can (and should) be improved! Try this:
 
 ## References
 
-- *Adam Marrs: **IntroToDXR***
-[https://github.com/acmarrs/IntroToDXR](https://github.com/acmarrs/IntroToDXR)
-- *Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois: **Introduction to DirectX RayTracing***
-[http://intro-to-dxr.cwyman.org/](http://intro-to-dxr.cwyman.org/)
-- *Daniel Scherzer, Lei Yang, Oliver Mattausch, Diego Nehab, Pedro V. Sander, Michael Wimmer, Elmar Eisemann: **A Survey on Temporal Coherence Methods in Real-Time Rendering***
-[https://www.cg.tuwien.ac.at/research/publications/2011/scherzer2011c/scherzer2011c-pdf.pdf](https://www.cg.tuwien.ac.at/research/publications/2011/scherzer2011c/scherzer2011c-pdf.pdf)
-- *John Chapman: **SSAO Tutorial***
-[http://john-chapman-graphics.blogspot.com/2013/01/ssao-tutorial.html](http://john-chapman-graphics.blogspot.com/2013/01/ssao-tutorial.html)
+- Adam Marrs: **IntroToDXR** - github.com/acmarrs/IntroToDXR
+- Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois: **Introduction to DirectX RayTracing** - intro-to-dxr.cwyman.org  
+- Daniel Scherzer, Lei Yang, Oliver Mattausch, Diego Nehab, Pedro V. Sander, Michael Wimmer, Elmar Eisemann: **A Survey on Temporal Coherence Methods in Real-Time Rendering** - <a>www.cg.tuwien.ac.at/research/publications/2011/scherzer2011c/scherzer2011c-pdf.pdf</a>  
+- John Chapman: **SSAO Tutorial** - john-chapman-graphics.blogspot.com/2013/01/ssao-tutorial.html  
 
 ## Requirements
 
@@ -49,11 +45,11 @@ This is a basic implementation that can (and should) be improved! Try this:
 ## Licenses and Open Source Software
 
 The code uses three dependencies:
-* [TinyObjLoader](https://github.com/syoyo/tinyobjloader-c/blob/master/README.md), provided with an MIT license. 
-* [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h), provided with an MIT license.
-* [dear imgui](https://github.com/ocornut/imgui), provided with an MIT license.
+* **TinyObjLoader** - github.com/syoyo/tinyobjloader-c/blob/master/README.md, provided with an MIT license. 
+* **stb_image.h** - github.com/nothings/stb/blob/master/stb_image.h, provided with an MIT license.
+* **dear imgui** - github.com/ocornut/imgui, provided with an MIT license.
 
 The repository includes assets for use when testing the renderer:
-* [Statue Image](https://pixabay.com/en/statue-sculpture-figure-1275469/), by Michael Gaida, licensed under a [CC0 1.0 Creative Commons Universal Public Domain Dedication License](https://creativecommons.org/publicdomain/zero/1.0/deed.en). 
-* [Peerless Magnarc Cinema Projectors](https://sketchfab.com/models/62046af7d4f84b4ebe01d44f54970bc1), by Miguel Bandera, licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
+* **Statue Image** - pixabay.com/en/statue-sculpture-figure-1275469/, by Michael Gaida, licensed under a **CC0 1.0 Creative Commons Universal Public Domain Dedication License** - (<a>creativecommons.org/publicdomain/zero/1.0/deed.en</a>). 
+* **Peerless Magnarc Cinema Projectors** - sketchfab.com/models/62046af7d4f84b4ebe01d44f54970bc1, by Miguel Bandera, licensed under a **Creative Commons Attribution 4.0 International License** - (<a>creativecommons.org/licenses/by/4.0/)</a>. 
 
