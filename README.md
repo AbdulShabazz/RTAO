@@ -37,7 +37,7 @@ This is a basic implementation that can (and should) be improved! Try this:
 ## Requirements
 
 * Windows 10 v1809, "October 2018 Update" (RS5)
-* Windows 10 SDK v1809 (10.0.17763.0). [Download it here.](https://developer.microsoft.com/en-us/windows/downloads/sdk-archive)
+* Windows 10 SDK v1809 (10.0.17763.0)
 * Visual Studio 2017 or VS Code
 
 ## Command Line Arguments
