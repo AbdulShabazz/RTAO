@@ -1,6 +1,6 @@
-/.vs/*
-/intermediate/*
-/bin/*
+.vs/**
+intermediate/**
+bin/**
 imgui.ini
 
 *.ipch
